@@ -1,0 +1,52 @@
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\SignedPDF File.exe
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\SignedPDF File.deps.json
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\SignedPDF File.runtimeconfig.json
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\SignedPDF File.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\SignedPDF File.pdb
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\obj\Debug\net6.0\SignedPDF File.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\obj\Debug\net6.0\SignedPDF File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\obj\Debug\net6.0\SignedPDF File.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\obj\Debug\net6.0\SignedPDF File.AssemblyInfo.cs
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\obj\Debug\net6.0\SignedPDF File.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\obj\Debug\net6.0\SignedPDF File.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\obj\Debug\net6.0\refint\SignedPDF File.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\obj\Debug\net6.0\SignedPDF File.pdb
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\obj\Debug\net6.0\SignedPDF File.genruntimeconfig.cache
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\obj\Debug\net6.0\ref\SignedPDF File.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\itextsharp.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pc\source\repos\SignedPDF File\SignedPDF File\obj\Debug\net6.0\SignedPDF File.csproj.CopyComplete
