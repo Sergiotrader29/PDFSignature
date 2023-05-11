@@ -26,11 +26,11 @@ namespace PdfDigitalSignature
             Console.WriteLine("Aplicacion firma digital PDF");
 
             // Prompt for the PDF file path
-            // Console.WriteLine("Ingresa la ruta del archivo: ");
-            //    string pdfFilePath = Console.ReadLine();
+        Console.WriteLine("Ingresa la ruta del archivo: ");
+              string pdfFilePath = Console.ReadLine();
 
-            // PDF file path
-            string pdfFilePath = @"C:\Users\pc\Desktop\NET.pdf";
+      
+           // string pdfFilePath = @"C:\Users\pc\Desktop\NET.pdf";
 
             // Generate private and public keys
             RSA privateKey = GeneratePrivateKey();
@@ -69,20 +69,20 @@ namespace PdfDigitalSignature
                 // Open the PDF document
                 pdfDocument.Open();
 
-                // Sign the PDF document
+            /*    // Sign the PDF document
                 var nombre = "sergio"; // Replace with your actual name
                 var apellido = "vasquez"; // Replace with your actual surname
-                var email = "your.email@example.com"; // Replace with your actual email
+                var email = "your.email@example.com"; // Replace with your actual email*/
 
 
-                /* Console.WriteLine("Cual es tu nombre: ");
+                 Console.WriteLine("Cual es tu nombre: ");
                  var nombre = Console.ReadLine();
 
                  Console.WriteLine("Cual es tu apellido: ");
                  var apellido = Console.ReadLine();
 
                  Console.WriteLine("Cual es tu email: ");
-                 var email = Console.ReadLine();*/
+                 var email = Console.ReadLine();
 
 
 
